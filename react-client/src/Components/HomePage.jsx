@@ -3,9 +3,9 @@ import React, { Component } from 'react';
 class HomePage extends Component{
     render() {
         return (
-            <div>
-                Home Page
-            </div>
+            <h1 className="homePage">
+                    NATASHA CARSON
+            </h1>
         )
     }
 }
